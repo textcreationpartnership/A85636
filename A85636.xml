@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great victory obtained by his Excellencie the Lord Generall Fairfax neer the Island of Mersey, against the forces of the Lord Goring, both by land and sea, with a list of the number that were slain and taken prisoners, the sea-men totally routed, 22 pieces of ordnance taken, with all their arms, powder, match, and bullet. Also another fight at Wivner, within two miles of Coulchester, 16. slain, 40. taken prisoners, and the surprizing of Lieut. Col. Gardner, and a party of Walloons, by capt. Fisher, with his Suffolk Horse. With their examination before the generall, and their concession, touching their marching up to the walls of London, and joyning with a party to plunder the city.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85636</idno>
+            <idno type="STC">Wing G1775</idno>
+            <idno type="STC">Thomason E449_20</idno>
+            <idno type="EEBO-CITATION">99864457</idno>
+            <idno type="PROQUEST">99864457</idno>
+            <idno type="VID">161863</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85636)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161863)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E449[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great victory obtained by his Excellencie the Lord Generall Fairfax neer the Island of Mersey, against the forces of the Lord Goring, both by land and sea, with a list of the number that were slain and taken prisoners, the sea-men totally routed, 22 pieces of ordnance taken, with all their arms, powder, match, and bullet. Also another fight at Wivner, within two miles of Coulchester, 16. slain, 40. taken prisoners, and the surprizing of Lieut. Col. Gardner, and a party of Walloons, by capt. Fisher, with his Suffolk Horse. With their examination before the generall, and their concession, touching their marching up to the walls of London, and joyning with a party to plunder the city.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p.5: T. Fairfax.</note>
+                  <note>Annotation on Thomason copy: "June 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161863:1" rendition="simple:additions"/>
+            <p>A GREAT VICTORY OBTAINED BY HIS EXCELLENCIE THE Lord Generall Fairfax NEER The Iſland of Merſey, againſt the Forces of the Lord Goring, both by Land and Sea, With a Liſt of the number that were ſlain and taken priſoners, the Sea-men totally routed, 22 Pieces of Ordnance taken, with all their Arms, Powder, Match, and Bullet.</p>
+            <p>Alſo another Fight at Wivener, within two miles of Coulcheſter, 16. ſlain, 40 taken priſoners, and the ſurprizing of Lieut. Col. Gardner, and a Party of Walloons, by capt. Fiſher, with his Suffolk Horſe.</p>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Examination before the Generall, and their Co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouching their marching up to the Walls of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and joyning with a Party to plunder the City.</p>
+            <p>
+               <add>June 23</add> L<gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>, Printed for R. W. Anno Dom. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161863:2"/>
+            <pb n="1" facs="tcp:161863:2"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+               </figure>
+            </head>
+            <head>Another FIGHT NEER Coulchester, betwixt the ſhips which came in to his Excellency the Lord Generall, and the ſhips be<g ref="char:EOLhyphen"/>longing to the Lord Goring.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>ON Monday laſt being the 19. of this inſtant, Captain Peacock and two more of the Har<g ref="char:EOLhyphen"/>wich ſhips, which came in to the aſſiſtance of his Excellency the Lord Generall, engaged with the two ſhips that the Forces in Colcheſter had to lay o<g ref="char:EOLhyphen"/>pen the River, and ſecure their paſſage in and out, and had a very deſperate fight, diſcharging ſeverall broad ſides, and were often upon boarding, but ſtill repulſed
+<pb n="2" facs="tcp:161863:3"/>by each other, with exceeding gallantry and reſolution, the Docks being very well man'd with halfe pikes and other neceſſaries for War.</p>
+            <p>This conflict continued for the ſpace of half an hour, the victory being very doubtfull on which ſide it would be given, till at the laſt a party of our Dragoons were ſent from Merſey Fort, who joyned with the Sea men, and fought reſolutely; but at the laſt the victory were given to our party, for by the aſſiſtance of the Land<g ref="char:EOLhyphen"/>forces, the Sea-men boarded the Enemies two ſhips with the loſſe of 7. men, three ſlam and two wounded, killed a Boſton, and 7 or 8 Marriners, took about 60. priſoners, 22. pieces of ordnance, 70. Sea muſquets, 100 half pikes, two Tun of Match, 9. Barrels of powders, great ſtore of Bullets, and plenty of proviſions, both for cheeſe, Biskets, Butter, ſalt Beefe, &amp;c.</p>
+            <p>The Enemy hearing that their ſhips were engaged, they haſtned to ſend ſupplies for their relief, which they did. but before they could get to them, both the ſhips were ſeized on, the men ſecured, and the prize brought aſhore; but becauſe this party ſhould not loſe their la<g ref="char:EOLhyphen"/>bour, a party of the Lord Generals engaged them at Wivenall, a Village they hitherto poſſeſſed, fought with them, killed 16. and took 40. priſoners, with the loſſe of 7 men.</p>
+            <p>One of the Frigots which were taken carryed 12. piece of ordnance, the other ten; the one is ſent away, the other ſtayes here.</p>
+            <p>We have had ſeverall skirmiſhes with the Enemy, within theſe two or three dayes, they are a very reſolute and obſtinate party, but we have divers of them priſo<g ref="char:EOLhyphen"/>ners, and amongſt the reſt, a party of Walloons, who
+<pb n="3" facs="tcp:161863:3"/>were going to the Enemy, extraordinary well mounted and as well armed with Blunderbaſſe Piſtols, each of which would carry ſeven Bullets: this party was inter<g ref="char:EOLhyphen"/>cepted by the Suffolk horſe commanded by cap. Fiſher, who after a ſhort diſpute, took moſt of them priſoners, and ſeized on their Horſe and Arms.</p>
+            <p>Lieut. col. Gardner, once Vice-governour of Far<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing<g ref="char:EOLhyphen"/>ton houſe, with about 30. more, were alſo ſet upon by a party of our Horſe, and ſecured, and were brought priſoners to the Generall.</p>
+            <p>And upon their examination before his Excellency, they confeſſed, that their intent was to go through Col<g ref="char:EOLhyphen"/>cheſter into Suffolk, ſo into Norfolk, and back through Cambridgeſhire, by which time they ſhould have a gallant Army, and then they would up to the very wals of London, where their own party would joyne with them in plundering that Rebellious city; and then how ſhall the Royaliſt, Independant, or Presbyterian be di<g ref="char:EOLhyphen"/>ſtinguiſhed? and muſt all be involved in ruine.</p>
+            <p>The great Work upon the top of the Hill is finiſhed, it holds 1000. men, the great Canons are planted, and upon Munday laſt they began to play, 8 Piece; were diſcharged ſix ſeverall times together.</p>
+            <p>The General hath received a Letter from Sir William Maſham, and the reſt of the Committee under reſtraint in Colcheſter, intimating, That they made it their re<g ref="char:EOLhyphen"/>queſt to his Excellency, to enter into a Treaty for peace, and in the ſame Paper a line or two ſigned, Norwich, Capel, Lucas, That they thought fit to give the Com<g ref="char:EOLhyphen"/>mittee leave to ſign that paper, and that they intended by it a generall peace. No anſwer as yet returned, and believed the Committee was forced to ſigne this pa<g ref="char:EOLhyphen"/>per.</p>
+            <pb n="4" facs="tcp:161863:4"/>
+            <p> The party in the town are fortifying, and indeavour proviſions from Tendring Hundred, which cannot bee conſiderable, nor yet prevented, unleſſe the Suffolk for<g ref="char:EOLhyphen"/>ces were come up, for whom col. Whaley is gone; they are impoſing a fine upon the town, forcing all between 16. and 60. to bear arms, and are preparing horſe-mils, and hand-mils to grind their corn.</p>
+            <p>The Lord Generall begun a work yeſterday at the North gate, and the Souldiers maintain it with much gallantry and reſolution.</p>
+            <p>The Trumyeter with a meſſage for a treaty is not yet returned, nor muſt not, till the Morter-piece and Gra<g ref="char:EOLhyphen"/>nadoes come up, and then accept of what the Generall offers, elſe Thunderbolts and Granadoes will be their doom.</p>
+            <p>They have twice marched out with foot and long Boats to regain Merſey Iſland, but returned with loſſe, for our Forces fell upon them, and beat them back into the town.</p>
+            <p>The ſouldiery begins to deſpair, but the Earl of Nor<g ref="char:EOLhyphen"/>wich feeds their fancies with vaine deluſions, telling them, That the General had ſent a Trumpeter to them, offering to draw off, bid them chew their bullets all the Roundheads in London were plundered, onely their friends had left ſome for them, as deſerving it. And hee further intimated, that Maj. Gen. Langdale with 10000. men were within 15. miles, and would fall on the Ge<g ref="char:EOLhyphen"/>nerals Rear very ſuddenly.</p>
+            <p>On Monday the Bells in the 16. Pariſhes rung till night, for joy of the blowing up the Parliament houſe, for ſo it were ſuggeſted to the ſouldiery. They keep no Matches ligted, unleſſe upon duty.</p>
+            <pb n="5" facs="tcp:161863:4"/>
+            <p> The Generall hath ſet forth a Proclamation againſt the ſtragling Souldiers of his Army, which followeth in theſe words.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="military_proclamation">
+                        <p>WHereas I am informed that many Souldiers of the Army do ordinarily abſent themſelves from their quarters and cullers, and ſtraggle about the coun<g ref="char:EOLhyphen"/>try, whereby much opportunity and liberty is taken to plunder and abuſe the country, and commit many out<g ref="char:EOLhyphen"/>rages, the guards and other ſervices are neglected, and ſome are taken priſoners by the Enemy; for prevention whereof for the future, ſince the pretence of ſeeking for victuals, under which this liberty hath been taken, is now provided againſt, by an orderly courſe of ſupplying the Army with proviſions: I do hereby order and require, That henceforth no Souldier or Officee do preſume to ſtraggle a mile from the Leaguer, or ſtir away from their Colours and duty, under pain of being ſeverely proceeded againſt recording to the Articles of War in that behalf; And all officers are hereby required twice at leaſt in every 24. hours, to call over the Liſt of the ſouldiers in their reſpective Troops and Companies, and to take ſpeciall notice of ſuch as ſhall at any time bee found abſent without order or leave, that they may be duly proceeded againſt, and puniſhed as aforeſaid.</p>
+                        <closer>
+                           <dateline>Given under my hand and ſeale, <date>June 16. 1648.</date>
+                           </dateline>
+                           <signed>T. FAIRFAX.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="6" facs="tcp:161863:5"/>
+            <p> Since the proclaiming of this Order, the Souldiery keeps together, which doth prove far more diſadvan<g ref="char:EOLhyphen"/>tagious to the enemy, then formerly, by reaſon our Guards are more ſtrong and ſecure, and able to oppoſe the enemy upon any attempt whatſoever, which they have ſince found, and ſmarted for; as appeares by their late attempt this morning upon two of our Guards, neer the North gate, who upon their ſallying forth, our Centinels diſcovered them, and gave fire, which gave an allarm to the Guards, who immediatly were in a readineſſe to receive them, and upon the Enemies ad<g ref="char:EOLhyphen"/>vance they fired at each other, but did not diſpute the buſineſſe long, for upon the approach of a party of Horſe, the Enemy retreated, our men purſued, and in the purſuit took 15. priſoners, killed 6. with the loſſe of one Corporall, and a private Souldier.</p>
+            <closer>
+               <dateline>From the Head-quarters neer Colchester <date>June 21. 8. at night, 1648.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>Imprimatur</p>
+               <closer>
+                  <signed>G. M.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
